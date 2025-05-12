@@ -4,7 +4,7 @@ title = 'index'
 +++
 Hi, my name is **Tobias Stäuble** and I am a software developer from Switzerland. 
 
-I'm currently working as a software engineer at **BDO AG Switzerland**, where I focus on backend services and data systems. I also teach cloud engineer at **HFTM** (part-time).
+I'm currently working as a software engineer at **BDO AG Switzerland**, where I focus on backend services and data systems. I also teach cloud engineering at **HFTM** (part-time).
 
 Outside of work, I enjoy road cycling, riding motorcycles, producing electronic music & playing guitar and cooking.
 
@@ -25,4 +25,4 @@ Outside of work, I enjoy road cycling, riding motorcycles, producing electronic 
 - Familiar with the **Microsoft 365 Power Platform**
 - Frontend development experience with **React** and **Vue.js**
 - Casual experience with **Rust**, **C++** and **PowerShell**
-- Microsoft Certified (Microsoft Certified: Azure Developer Associate, Microsoft Certified: Azure Fundamentals)
+- Microsoft Certified (Azure Developer Associate, Azure Fundamentals)
